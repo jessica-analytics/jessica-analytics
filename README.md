@@ -1,3 +1,4 @@
+<img src="[LINK_DA_SUA_IMAGEM](https://github.com/jessica-analytics/jessica-analytics/blob/main/capa-github-jessica.png)" width="100%">
 # Jéssica Silveira
 
 Estou em transição de carreira dentro de RH, direcionando meus estudos para análise de dados com foco em People Analytics.
