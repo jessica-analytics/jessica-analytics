@@ -2,7 +2,7 @@
 
 Estou em transição de carreira dentro de RH, direcionando meus estudos para análise de dados com foco em People Analytics.
 
-Sempre gostei de organização, lógica e entender como melhorar processos — e hoje estou aprendendo a usar dados para apoiar decisões mais estratégicas sobre pessoas.
+Sempre gostei de organização, lógica e entender como melhorar processos, e hoje estou aprendendo a usar dados para apoiar decisões mais estratégicas sobre pessoas.
 
 ---
 
@@ -19,9 +19,9 @@ Sempre gostei de organização, lógica e entender como melhorar processos — e
 
 Quero construir projetos voltados para:
 
-* análise de turnover
-* indicadores de RH
-* visualização de dados de pessoas
+* Análise de turnover
+* Indicadores de RH
+* Visualização de dados de pessoas
 
 ---
 
