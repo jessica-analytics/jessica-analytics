@@ -1,51 +1,32 @@
-# 💙 Jéssica Silveira
+# Jéssica Silveira
 
-### People Analytics | Dados aplicados a RH
+Estou em transição de carreira dentro de RH, direcionando meus estudos para análise de dados com foco em People Analytics.
 
----
-
-🎯 Em transição estratégica de RH para Data Analytics, com foco em **People Analytics** — utilizando dados para gerar decisões mais inteligentes sobre pessoas, cultura e performance.
+Sempre gostei de organização, lógica e entender como melhorar processos — e hoje estou aprendendo a usar dados para apoiar decisões mais estratégicas sobre pessoas.
 
 ---
 
-## 🚀 Sobre mim
+## O que estou estudando agora
 
-* Formação em RH
-* Interesse em análise de dados e inteligência de negócio
-* Construindo projetos práticos com foco em **indicadores de pessoas**
-* Evoluindo em ferramentas de análise e visualização de dados
-
----
-
-## 🧠 Habilidades em desenvolvimento
-
-* Excel (análise e organização de dados)
-* Power BI (dashboards e visualização)
-* SQL (consultas e manipulação de dados)
-* Lógica analítica e storytelling com dados
+* Excel aplicado à análise de dados
+* Power BI (construção de dashboards)
+* Fundamentos de SQL
+* Lógica e interpretação de dados
 
 ---
 
-## 📊 Projetos
+## Próximos passos
 
-🔹 Em breve: primeiros projetos de **People Analytics**
+Quero construir projetos voltados para:
 
-* Análise de turnover
-* Indicadores de absenteísmo
-* Dashboards de RH
-
----
-
-## 🎯 Objetivo
-
-Atuar com **People Analytics**, transformando dados em insights estratégicos para apoiar decisões em RH e desenvolvimento organizacional.
+* análise de turnover
+* indicadores de RH
+* visualização de dados de pessoas
 
 ---
 
-## 🌐 Conecte-se comigo
+## Sobre esse perfil
 
-[LinkedIn](#)
+Vou usar esse espaço para registrar minha evolução prática em dados.
 
----
-
-💡 *Em constante evolução — aprendendo, aplicando e construindo.*
+Sem pressa, mas com consistência.
